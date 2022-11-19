@@ -18,7 +18,7 @@
 #define APPSK  "1234567890"
 #endif
 
-#define repo "https://raw.githubusercontent.com/tbagindo/httpupdate/main/smartString.bin"
+#define repo "https://raw.githubusercontent.com/tbagindo/httpupdate/main/0000-delay.ino.bin"
 ESP8266WiFiMulti WiFiMulti;
 
 void setup() {
